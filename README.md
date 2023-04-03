@@ -1,4 +1,5 @@
 # Financial Planner for Emergencies and Financial Planner for Retirement
+
 Module 5 Challenge Work
 
 * The Financial Planner for Emergencies 
@@ -10,12 +11,13 @@ This tool will forecast the performance of their retirement portfolio in 30 year
 To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 The tool produces a pie chart that visualizes the member's holdings in Crypto and Stocks/Bonds
-![Pie Chart of Holdings] (/Images/members_holdings_pie_chart.gif)
+
+![Pie Chart of Holdings] (./Images/members_holdings_pie_chart.gif)
 
 The Financial Planner for Retirement tool utilized Monte Carlo Technique to project the investment balance
 at the end of 30 year and also at the end of 10 year period
 
-![30 year simulation using Monte Carlo] (/Images/members_monte_carlo_forecast_30_years.gif)
+![30 year simulation using Monte Carlo] (./Images/members_monte_carlo_forecast_30_years.gif)
 
 
 ---
