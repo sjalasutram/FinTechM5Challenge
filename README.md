@@ -12,12 +12,12 @@ To do this, the tool will make an Alpaca API call via the Alpaca SDK to get hist
 
 The tool produces a pie chart that visualizes the member's holdings in Crypto and Stocks/Bonds
 
-![Pie Chart of Holdings] (./Images/members_holdings_pie_chart.gif)
+![Pie Chart of Holdings](Images/members_holdings_pie_chart.gif)
 
 The Financial Planner for Retirement tool utilized Monte Carlo Technique to project the investment balance
 at the end of 30 year and also at the end of 10 year period
 
-![30 year simulation using Monte Carlo] (./Images/members_monte_carlo_forecast_30_years.gif)
+![30 year simulation using Monte Carlo](Images/members_monte_carlo_forecast_30_years.gif)
 
 
 ---
@@ -29,7 +29,7 @@ This challenge submission uses python 3.7.13 with the following packages:
 * [json] (https://docs.python.org/3/library/json.html)
 * [dotenv] (https://pypi.org/project/python-dotenv/)
 * [alpaca_trade_api] (https://alpaca.markets/docs/)
-* [MCForecastTools] 
+* [MCForecastTools.py] 
 
 ## Pre-requisites
 You must have an .env file with the following keys in the env file to successfully run the jupyter notebook
